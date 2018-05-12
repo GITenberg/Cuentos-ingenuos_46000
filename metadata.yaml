@@ -1,0 +1,35 @@
+_repo: Cuentos-ingenuos_46000
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46000-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Trigo, Felipe
+    birthdate: 1864
+    deathdate: 1916
+    gutenberg_agent_id: '43564'
+    url: http://www.gutenberg.org/2009/agents/43564
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Felipe_Trigo
+    - http://es.wikipedia.org/wiki/Felipe_Trigo
+description: ''
+gutenberg_issued: '2014-06-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46000'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Spanish'
+- !lcsh 'Spanish fiction -- 20th century'
+- !lcc 'PQ'
+tableOfContents: 'La niña mimosa -- Tu llanto y mi risa -- El oro inglés -- Paraíso
+  perdido: recuerdos de Mindanao -- La primera conquista -- La tempestad -- Paga anticipada
+  -- La toga -- Por ahí -- El suceso del día -- Mi prima me odia -- El recuerdo --
+  Pruebas de amor -- Mujeres prácticas -- Genio y figura -- Villaporrilla -- Luzbel
+  -- Jugar con el fuego -- La receta.'
+title: Cuentos ingenuos
+url: http://www.gutenberg.org/ebooks/46000
