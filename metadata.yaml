@@ -14,6 +14,8 @@ creator:
     - http://en.wikipedia.org/wiki/Felipe_Trigo
     - http://es.wikipedia.org/wiki/Felipe_Trigo
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46000#Cuentos-ingenuos
 gutenberg_issued: '2014-06-16'
 gutenberg_type: Text
 identifiers:
